@@ -1,0 +1,182 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="MissingTranslation">Mini_Project</string>
+    <string name="healthyme" translatable="false">\@HealthyMe</string>
+    <string name="your_own_health_manager" translatable="false">Your Own Health Manager</string>
+    <string name="you_think_managing_your_health_and_fitness_is_tough" translatable="false">You think managing your health and fitness is tough,</string>
+    <string name="not_anymore" translatable="false">NOT ANYMORE</string>
+    <string name="log_in" translatable="false">LOG IN</string>
+    <string name="sign_in" translatable="false">SIGN IN</string>
+    <string name="first_time" translatable="false">First Time?</string>
+    <string name="previous_user" translatable="false">Previous User?</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="log_in2" translatable="false">LOG IN</string>
+    <string name="enter_email" translatable="false">enter email</string>
+    <string name="enter_password" translatable="false">enter password</string>
+    <string name="welcome_back" translatable="false">Welcome Back</string>
+    <string name="please_register" translatable="false">Please Register</string>
+    <string name="name" translatable="false">Name</string>
+    <string name="gender" translatable="false">Gender</string>
+    <string name="age" translatable="false">Age</string>
+    <string name="email2" translatable="false">Email</string>
+    <string name="password2" translatable="false">Password</string>
+    <string name="enter_name" translatable="false">enter name</string>
+    <string name="enter_age" translatable="false">enter age</string>
+    <string name="enter_gender" translatable="false">enter gender</string>
+    <string name="enter_email2" translatable="false">enter email</string>
+    <string name="enter_password2" translatable="false">enter password</string>
+    <string name="sign_in2" translatable="false">SIGN IN</string>
+    <string name="todo2" translatable="false">TODO</string>
+    <string name="height" translatable="false">Height</string>
+    <string name="weight" translatable="false">Weight</string>
+    <string name="bmi" translatable="false">BMI</string>
+    <string name="home_remedies" translatable="false">HOME REMEDIES</string>
+    <string name="bmi_calculator" translatable="false">BMI Calculator</string>
+    <string name="physical_health" translatable="false">PHYSICAL HEALTH</string>
+    <string name="mental_health" translatable="false">MENTAL HEALTH</string>
+    <string name="elderly_people" translatable="false">ELDERLY PEOPLE</string>
+    <string name="height2" translatable="false">Height</string>
+    <string name="enter_height" translatable="false">enter height</string>
+    <string name="enter_weight" translatable="false">enter weight</string>
+    <string name="weight2" translatable="false">Weight</string>
+    <string name="p" translatable="false">P</string>
+    <string name="enter_password_min_7" translatable="false">enter password (min 7)</string>
+    <string name="enter_height_in_cm" translatable="false">enter height in cm</string>
+    <string name="enter_weight_in_kg" translatable="false">enter weight in kg</string>
+    <string name="sign_up" translatable="false">SIGN UP</string>
+    <string name="sign_up2" translatable="false">SIGN UP</string>
+    <string name="textview" translatable="false">TextView</string>
+    <string name="textview2" translatable="false">TextView</string>
+    <string name="textview3" translatable="false">TextView</string>
+    <string name="textview4" translatable="false">TextView</string>
+    <string name="name2" translatable="false">NAME</string>
+    <string name="age2" translatable="false">AGE</string>
+    <string name="gender2" translatable="false">GENDER</string>
+    <string name="email3" translatable="false">EMAIL</string>
+    <string name="enter_gender_all_caps" translatable="false">enter gender (all CAPS)</string>
+    <string name="update" translatable="false">Update</string>
+    <string name="show" translatable="false">Show</string>
+    <string name="bmr" translatable="false">BMR</string>
+    <string name="height3" translatable="false">HEIGHT</string>
+    <string name="weight3" translatable="false">WEIGHT</string>
+    <string name="your_profile" translatable="false">Your Profile</string>
+    <string name="physical_health2" translatable="false">Physical Health</string>
+    <string name="enter_your_activity_level_sedentary_low_active_very" translatable="false">Enter your activity level (sedentary, low, active, very)</string>
+    <string name="enter_your_average_amount_of_water_intake_in_one_day" translatable="false">Enter your average amount of water intake in one day</string>
+    <string name="enter_any_allergies_or_food_exceptions_to_avoid" translatable="false">Enter any allergies or food exceptions to avoid</string>
+    <string name="enter" translatable="false">enter</string>
+    <string name="enter_in_litres" translatable="false">enter (in Litres)</string>
+    <string name="enter2" translatable="false">enter</string>
+    <string name="go" translatable="false">GO</string>
+    <string name="breakfast" translatable="false">Breakfast</string>
+    <string name="snacks" translatable="false">Snacks</string>
+    <string name="lunch" translatable="false">Lunch</string>
+    <string name="dinner" translatable="false">Dinner</string>
+    <string name="calorie_intake" translatable="false">Calorie Intake</string>
+    <string name="textview5" translatable="false">TextView</string>
+    <string name="textview6" translatable="false">TextView</string>
+    <string name="textview7" translatable="false">TextView</string>
+    <string name="textview8" translatable="false">TextView</string>
+    <string name="textview9" translatable="false">TextView</string>
+    <string name="show_diet_plan" translatable="false">Show Diet Plan</string>
+    <string name="Textview" translatable="false">TextView</string>
+    <string name="Textview2" translatable="false">TextView</string>
+    <string name="Textview3" translatable="false">TextView</string>
+    <string name="Textview4" translatable="false">TextView</string>
+    <string name="Textview5" translatable="false">TextView</string>
+    <string name="dob" translatable="false">DOB</string>
+    <string name="dd_mm_yyyy" translatable="false">DD/MM/YYYY</string>
+    <string name="enter_your_blood_sugar_level" translatable="false">Enter your blood sugar level</string>
+    <string name="enter_your_blood_pressure_level" translatable="false">Enter your blood pressure level</string>
+    <string name="enter_in_mg_dl" translatable="false">enter in mg/dL</string>
+    <string name="enter_in_mmhg" translatable="false">enter in mmHg</string>
+    <string name="your_blood_pressure_is_high_and_you_should_consider_consulting_a_doctor" translatable="false">Your Blood Pressure is high and you should consider consulting a doctor.</string>
+    <string name="your_blood_pressure_is_low_and_you_should_consider_consulting_a_doctor" translatable="false">Your Blood Pressure is low and you should consider consulting a doctor.</string>
+    <string name="your_blood_sugar_level_is_high_and_you_should_consider_consulting_a_doctor" translatable="false">Your Blood Sugar level is high and you should consider consulting a doctor.</string>
+    <string name="your_blood_sugar_level_is_low_and_you_ahould_consider_consulting_a_doctor" translatable="false">Your Blood Sugar level is low and you ahould consider consulting a doctor.</string>
+    <string name="update_your_profile" translatable="false">Update Your Profile</string>
+    <string name="update2" translatable="false">Update</string>
+    <string name="nani_ke_nuskhe" translatable="false">Nani ke nuskhe</string>
+    <string name="nani_ke_nuskhe2" translatable="false">Nani ke Nuskhe</string>
+    <string name="textview30" translatable="false">TextView</string>
+    <string name="textview31" translatable="false">TextView</string>
+    <string name="textview32" translatable="false">TextView</string>
+    <string name="textview33" translatable="false">TextView</string>
+    <string name="test1" translatable="false">test1</string>
+    <string name="out1" translatable="false">out1</string>
+    <string name="out2" translatable="false">out2</string>
+    <string name="test3" translatable="false">test3</string>
+    <string name="test4" translatable="false">test4</string>
+    <string name="test5" translatable="false">test5</string>
+    <string name="test2" translatable="false">test2</string>
+    <string name="out3" translatable="false">out3</string>
+    <string name="out4" translatable="false">out4</string>
+    <string name="out5" translatable="false">out5</string>
+    <string name="test6" translatable="false">test6</string>
+    <string name="test7" translatable="false">test7</string>
+    <string name="test8" translatable="false">test8</string>
+    <string name="test9" translatable="false">test9</string>
+    <string name="nausea" translatable="false">nausea</string>
+    <string name="ginger_1_2_inches" translatable="false">ginger (1-2 inches)</string>
+    <string name="hydrate_yourself_and_ginger_1_2_inches" translatable="false">hydrate yourself and ginger (1-2 inches)</string>
+    <string name="menstrual_cramps" translatable="false">menstrual cramps</string>
+    <string name="inflammation" translatable="false">inflammation</string>
+    <string name="cholesterol" translatable="false">cholesterol</string>
+    <string name="headaches" translatable="false">headaches</string>
+    <string name="cumin_seeds_exercise_and_ginger_1_2_inches" translatable="false">cumin seeds, exercise and ginger (1-2 inches)</string>
+    <string name="turmeric_1_2_teaspoon" translatable="false">turmeric (1/2 teaspoon)</string>
+    <string name="garlic_2_3_cloves" translatable="false">garlic (2-3 cloves)</string>
+    <string name="pain" translatable="false">pain</string>
+    <string name="digestion" translatable="false">digestion</string>
+    <string name="insomnia" translatable="false">insomnia</string>
+    <string name="sore_throat" translatable="false">sore throat</string>
+    <string name="stomach_ache" translatable="false">stomach ache</string>
+    <string name="cloves_2_3" translatable="false">cloves (2-3)</string>
+    <string name="cumin_1_teaspoon" translatable="false">cumin (1 teaspoon)</string>
+    <string name="reduce_tea_coffee_and_take_cumin_1_teaspoon" translatable="false">reduce tea/ coffee and take cumin (1 teaspoon)</string>
+    <string name="honey_1_tablespoon" translatable="false">honey (1 tablespoon)</string>
+    <string name="cardamom_1_2_teaspoon" translatable="false">cardamom (1/2 teaspoon)</string>
+    <string name="intake" translatable="false">Intake</string>
+    <string name="mental_health2" translatable="false">Mental Health</string>
+    <string name="a_never_b_some_days_c_half_days_d_everyday" translatable="false">(A)Never, (B)Some days, (C)Half days, (D)Everyday</string>
+    <string name="over_the_last_2_weeks_how_often_have_you_been_bothered_by_any_of_the_following_problems_enter_in_a_b_c_d" translatable="false">Over the last 2 weeks, how often have you been bothered by any of the following problems? (Enter in A,B,C,D)</string>
+    <string name="little_interest_or_pleasure_in_doing_things" translatable="false">Little interest or pleasure in doing things</string>
+    <string name="feeling_down_depressed_or_hopeless" translatable="false">Feeling down, depressed, or hopeless</string>
+    <string name="trouble_falling_or_staying_asleep_or_sleeping_too_much" translatable="false">Trouble falling or staying asleep, or sleeping too much</string>
+    <string name="feeling_tired_or_having_little_energy" translatable="false">Feeling tired or having little energy</string>
+    <string name="poor_appetite_or_overeating" translatable="false">. Poor appetite or overeating</string>
+    <string name="feeling_bad_about_yourself_or_that_you_are_a_failure_or_have_let_yourself_or_anyone_else_down" translatable="false">Feeling bad about yourself or that you are a failure or have let yourself or anyone else down</string>
+    <string name="trouble_concentrating_on_things_such_as_reading_the_newspaper_or_watching_television" translatable="false">Trouble concentrating on things, such as reading the newspaper or watching television</string>
+    <string name="moving_or_speaking_so_slowly_that_other_people_could_have_noticed_or_the_opposite_being_so_figety_or_restless_that_you_have_been_moving_around_a_lot_more_than_usual" translatable="false">Moving or speaking so slowly that other people could have noticed. Or the opposite being so figety or restless that you have been moving around a lot more than usual</string>
+    <string name="thoughts_that_you_would_be_better_off_dead_or_of_hurting_yourself" translatable="false">Thoughts that you would be better off dead, or of hurting yourself</string>
+    <string name="a_very_little_b_little_c_much_d_very_much" translatable="false">(A)Very little, (B)Little, (C)Much, (D)Very much</string>
+    <string name="please_rate_each_item_by_selecting_one_of_the_four_answers_for_each_question_in_a_b_c_d" translatable="false">Please rate each item by selecting one of the four answers for each question in (A,B,C,D)</string>
+    <string name="it_is_important_not_to_appear_nervous" translatable="false">It is important not to appear nervous.</string>
+    <string name="it_scares_me_when_you_feel_shaky" translatable="false">It scares me when you feel shaky</string>
+    <string name="when_can_you_not_keep_your_mind_on_a_task_you_worry_that_you_might_be_going_crazy" translatable="false">When can you not keep your mind on a task, you worry that you might be going crazy.</string>
+    <string name="it_scares_me_when_you_feel_faint" translatable="false">It scares me when you feel faint</string>
+    <string name="it_is_important_to_you_to_stay_in_control_of_your_emotions" translatable="false">It is important to you to stay in control of your emotions</string>
+    <string name="when_you_notice_your_heart_beating_rapidly_you_worry_that_you_might_be_having_a_heart_attack" translatable="false">When you notice your heart beating rapidly, you worry that you might be having a heart attack</string>
+    <string name="when_you_are_nervous_you_get_paranoid_about_being_mentally_ill" translatable="false">When you are nervous, you get paranoid about being mentally ill</string>
+    <string name="it_scares_you_when_you_are_unable_to_keep_your_mind_on_a_task" translatable="false">It scares you when you are unable to keep your mind on a task</string>
+    <string name="you_get_a_feeling_of_being_afraid_as_if_something_bad_might_happen" translatable="false">You get a feeling of being afraid, as if something bad might happen</string>
+    <string name="you_get_irritated_and_angry_easily_and_have_trouble_relaxing" translatable="false">You get irritated and angry easily and have trouble relaxing</string>
+    <string name="you_frequently_worry_too_much_about_different_little_things" translatable="false">You frequently worry too much about different little things</string>
+    <string name="it_scares_you_when_you_are_nauseous" translatable="false">It scares you when you are nauseous</string>
+    <string name="other_people_notice_you_when_you_feel_shaky" translatable="false">Other people notice you when you feel shaky</string>
+    <string name="unusual_body_sensations_scare_you" translatable="false">Unusual body sensations scare you</string>
+    <string name="it_scares_you_when_you_are_nervous" translatable="false">It scares you when you are nervous</string>
+    <string name="it_scares_you_when_you_become_short_of_breath" translatable="false">It scares you when you become short of breath</string>
+    <string name="do_you_wish_to_take_the_test_again" translatable="false">Do you wish to take the test again?</string>
+    <string name="y_n" translatable="false">(Y/N)</string>
+    <string name="go2" translatable="false">Go</string>
+    <string name="here_are_some_jokes_and_light_hearted_humour_to_keep_up_your_mood">Here are some jokes and light-hearted humour to keep up your mood...</string>
+    <string name="more">MORE</string>
+    <string name="here_are_some_motivational_quotes_to_help_you_keep_going">Here are some motivational quotes to help you keep going...</string>
+    <string name="you_ve_entered_the_forbidden_section_of_the_app_that_not_all_can_find_so_i_the_creator_of_this_app_ask_you_this">You\'ve entered the forbidden section of the app that not all can find. So I the creator of this app ask you this-</string>
+    <string name="do_you_ponder_on_the_question_what_is_the_true_meaning_and_purpose_of_life_do_you_have_enough_curiosity_and_might_to_want_the_answer_despite_the_dire_consequences_if_yes_then_proceed_but_beaware_that_this_path_leads_to_a_very_dark_place_from_which_none_have_returned">Do you ponder on the question, what is the true meaning and purpose of life? Do you have enough curiosity and might to want the answer despite the dire consequences? If yes then proceed but beaware that this path leads to a very dark place from which none have returned . . . .</string>
+    <string name="go_back">Go Back</string>
+    <string name="logout">Logout</string>
+    <string name="button">Button</string>
+</resources>

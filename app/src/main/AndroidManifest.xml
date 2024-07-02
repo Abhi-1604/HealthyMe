@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Mini_Project"
+        tools:targetApi="31">
+        <activity
+            android:name=".RickRoll_activity"
+            android:exported="false"
+            android:parentActivityName=".HomePage_activity" />
+        <activity
+            android:name=".Jokes_activity"
+            android:exported="false"
+            android:parentActivityName=".HomePage_activity" />
+        <activity
+            android:name=".Motivation_activity"
+            android:exported="false"
+            android:parentActivityName=".HomePage_activity" />
+        <activity
+            android:name=".Mental4_activity"
+            android:exported="false"
+            android:parentActivityName=".HomePage_activity" />
+        <activity
+            android:name=".Mental3_activity"
+            android:exported="false"
+            android:parentActivityName=".HomePage_activity" />
+        <activity
+            android:name=".Mental2_activity"
+            android:exported="false"
+            android:parentActivityName=".HomePage_activity" />
+        <activity
+            android:name=".Mental_activity"
+            android:exported="false"
+            android:parentActivityName=".HomePage_activity" />
+        <activity
+            android:name=".Nuskhe_activity"
+            android:exported="false"
+            android:parentActivityName=".HomePage_activity" />
+        <activity
+            android:name=".Update_activity"
+            android:exported="false"
+            android:parentActivityName=".Profile_activity" />
+        <activity
+            android:name=".Lsugar_activity"
+            android:exported="false"
+            android:parentActivityName=".HomePage_activity" />
+        <activity
+            android:name=".Hsugar_activity"
+            android:exported="false"
+            android:parentActivityName=".HomePage_activity" />
+        <activity
+            android:name=".Lpress_activity"
+            android:exported="false"
+            android:parentActivityName=".HomePage_activity" />
+        <activity
+            android:name=".Hpress_activity"
+            android:exported="false"
+            android:parentActivityName=".HomePage_activity" />
+        <activity
+            android:name=".Physical2_activity"
+            android:exported="false"
+            android:parentActivityName=".HomePage_activity" />
+        <activity
+            android:name=".Physical_activity"
+            android:exported="false"
+            android:parentActivityName=".HomePage_activity" />
+        <activity
+            android:name=".Profile_activity"
+            android:exported="false"
+            android:parentActivityName=".HomePage_activity" />
+        <activity
+            android:name=".HomePage_activity"
+            android:exported="false" />
+        <activity
+            android:name=".Signin_activity"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Login_activity"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
